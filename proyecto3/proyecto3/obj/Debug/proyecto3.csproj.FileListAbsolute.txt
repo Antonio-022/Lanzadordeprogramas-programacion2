@@ -1,0 +1,21 @@
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.Form1.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.GenerateResource.Cache
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.Form2.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.csprojResolveAssemblyReference.cache
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.cuadratica.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.sueldo_trabajador.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.promedio.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.gasto.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.creditos.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.Form3.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.restaurant.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\launcher.Properties.Resources.resources
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\bin\Debug\lanzador de programas.exe.config
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\bin\Debug\lanzador de programas.exe.manifest
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\bin\Debug\lanzador de programas.application
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\bin\Debug\lanzador de programas.exe
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\bin\Debug\lanzador de programas.pdb
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\lanzador de programas.exe.manifest
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\lanzador de programas.application
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\lanzador de programas.exe
+C:\Users\Fanboy022\Desktop\proyecto3\proyecto3\obj\Debug\lanzador de programas.pdb
